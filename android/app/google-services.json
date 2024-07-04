@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1027233337924",
+    "project_id": "kikwa-60b7c",
+    "storage_bucket": "kikwa-60b7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027233337924:android:1537f5f57311284173e211",
+        "android_client_info": {
+          "package_name": "com.example.kikwa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRStet1qZ8t_oau_IcdecTmUTxRA3RaqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,25 @@
+{
+  "categories": [
+    {
+      "name": "Résidence",
+      "subcategory": [
+        "Appartements",
+        "Maisons individuelles",
+        "Villas",
+        "Studios",
+        "Lofts",
+        "Chambres"
+      ]
+    },
+    {
+      "name": "Commercial",
+      "subcategory": [
+        "Bureaux",
+        "Locaux commerciaux",
+        "Entrepôts",
+        "Espaces de coworking",
+        "Hôtels"
+      ]
+    }
+  ]
+}
